@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: $ kalbasit
+exclude_from_watch:
+  - .direnv
