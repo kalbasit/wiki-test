@@ -1,3 +1,14 @@
+```console
+ λ  nix run -f '&lt;nixpkgs&gt;' cowsay -c cowsay "Hi, I'm kalbasit! Welcome to my domain"
+&lt; Hi, I'm kalbasit! Welcome to my domain &gt;
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 # start
 
 Nice!
